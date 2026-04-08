@@ -1,2 +1,3 @@
 # Intern-Project
-Full Stack AI project that covers the MERN stack along with fundamentals of machine learning
+Full Stack Tast Manager Implemented using Mongo DB, React and Fast api
+In progress: basic ML implentation
